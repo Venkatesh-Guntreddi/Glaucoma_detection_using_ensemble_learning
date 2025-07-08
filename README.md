@@ -10,7 +10,7 @@ The project utilizes the **ORIGA (Online Retinal Fundus Image Database for Glauc
 
 **Download Instructions:**
 To run this project, you need to download the dataset and place it in the correct directory.
-1.  Download `Glaucoma.zip` and `glaucoma.csv` from [**Your Dataset Download Link Here**](https://www.kaggle.com/datasets/venkatesh0003/glaucoma).
+1.  Download `Glaucoma.zip` and `glaucoma.csv` from [**Dataset Download Link Here**](https://www.kaggle.com/datasets/venkatesh0003/glaucoma).
 2.  Place `glaucoma.csv` directly in the root of your cloned project directory (e.g., `/content/glaucoma.csv` if running in Colab, or `./glaucoma.csv` locally).
 3.  Unzip `Glaucoma.zip` into a directory structure such that the images are accessible at `[YOUR_PROJECT_ROOT]/ORIGA/ORIGA/Images`. For example, if you unzip it, you might get a folder named `ORIGA` containing another `ORIGA` folder inside, and then an `Images` folder. Ensure this path aligns with `"/content/ORIGA/ORIGA/Images"` or your adjusted local path.
 
